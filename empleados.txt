@@ -1,0 +1,6 @@
+*** Estos son los datos de los empleados ***
+
+Nombres: 
+Apellidos:
+Edad:
+Fecha Nacimiento:
